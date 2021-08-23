@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-change-font-size" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-name-car" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-name-card" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-show-pet-info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-timelines-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/product-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rating-bar" vcs="Git" />
+  </component>
+</project>
